@@ -1,6 +1,6 @@
 <div align=center><h1><img src="images/TRiOHeadshot2020.jpg">Matteo Antunez <img src="images/TRiOHeadshot2020.jpg"></h1></div>
 
-
+<p>&nbsp;</p>
 
 ## Current
 As of the Spring of 2021, I am a senior at Northwest Missouri State University (Northwest), Here, I am pursuing a BS (Bachelors of Science) Data Science: Computer with an estimated graduation date of May 2021.  
