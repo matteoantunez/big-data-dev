@@ -26,9 +26,9 @@ Eventually, I am want to complete and recieve a Masters and PHD, however, I am l
 ## Links
 Here are various links to sites and pages I use to post projects and other content.
 
-* [LinkedIn](https://www.linkedin.com/in/matteo-antunez/)
-* [GitHub](https://github.com/matteoantunez)
-* [Shutterfly Sharesite](https://antunezphotography.shutterfly.com/)
-* [Personal Website](https://matteoantunez.weebly.com/)
-* [YouTube Gaming Channel](https://www.youtube.com/channel/UCBF1v_u1Ad_0lSr2UjHRVaQ)
-* [Gaming TikTok](https://vm.tiktok.com/ZMJTV7GV1/)
+- [LinkedIn](https://www.linkedin.com/in/matteo-antunez/)
+- [GitHub](https://github.com/matteoantunez)
+- [Shutterfly Sharesite](https://antunezphotography.shutterfly.com/)
+- [Personal Website](https://matteoantunez.weebly.com/)
+- [YouTube Gaming Channel](https://www.youtube.com/channel/UCBF1v_u1Ad_0lSr2UjHRVaQ)
+- [Gaming TikTok](https://vm.tiktok.com/ZMJTV7GV1/)
