@@ -29,4 +29,4 @@ Here are various links to sites and pages I use to post projects and other conte
 * [Shutterfly Sharesite](https://antunezphotography.shutterfly.com/)
 * [Personal Website](https://matteoantunez.weebly.com/)
 * [YouTube Gaming Channel](https://www.youtube.com/channel/UCBF1v_u1Ad_0lSr2UjHRVaQ)
-* [Gaming TikTok]()
+* [Gaming TikTok](https://vm.tiktok.com/ZMJTV7GV1/)
