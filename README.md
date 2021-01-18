@@ -1,5 +1,5 @@
-<div align=center><h1><img src="images/TRiOHeadshot2020.jpg">Matteo Antunez <img src="images/TRiOHeadshot2020.jpg"></h1></div>
-<!--> Note: The header
+# <div align=center><img src="images/TRiOHeadshot2020.jpg">Matteo Antunez <img src="images/TRiOHeadshot2020.jpg"></div>
+
 <p>&nbsp;</p>
 
 ## Current
