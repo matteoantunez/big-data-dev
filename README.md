@@ -11,3 +11,14 @@ Beyond academics, I have always had a nitch within competing. Before college, I 
 In college, I worked with the Bearcat Winterguard and Bearcat Marching Band my freshmen year, with the Bearcat Winterguard placing 3rd at state. Currently, I am focusing on Virtual Reality (VR) gaming and competitions. I have not competed in any touraments, but am training to compete in Beat Saber. 
 
 ## Plans
+As of January 2021, I do not have any current offers for future employment. I have been applying for positions with various job titles.
+
+* Data Analyst
+* Data Cleaning and Sanitation
+* Data Worker
+* Data Governance
+* Data Specalist
+
+Eventually, I am want to complete and recieve a Masters and PHD, however, I am looking for employment once I graduate before I continue my education.
+
+## Links
